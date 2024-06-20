@@ -4,12 +4,6 @@ To experiment with this code, add some sample content and run `bundle exec jekyl
 
 ## Installation
 
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "business-card-jekyll-theme", git: "https://github.com/nikolapeja6/business-card-jekyll-theme"
-```
-
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
@@ -19,16 +13,8 @@ theme: business-card-jekyll-theme
 or, in case you are using GitHub Pages, the line should be:
 
 ```yaml
-remote_theme: nikolapeja6/business-card-jekyll-theme
+remote_theme: J3-Tech/business-card-jekyll-theme
 ```
-
-And then execute:
-
-```bash
-bundle
-```
-
-from the root of the project.
 
 ## Usage
 
