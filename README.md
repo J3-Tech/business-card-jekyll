@@ -7,13 +7,13 @@ To experiment with this code, add some sample content and run `bundle exec jekyl
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: business-card-jekyll-theme
+theme: business-card-jekyll
 ```
 
 or, in case you are using GitHub Pages, the line should be:
 
 ```yaml
-remote_theme: J3-Tech/business-card-jekyll-theme
+remote_theme: J3-Tech/business-card-jekyll
 ```
 
 ## Usage
