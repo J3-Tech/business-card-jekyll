@@ -14,14 +14,14 @@ card:
 
 # Profiles
 profiles:
-  #github:         octocat
-  #youtube:        user/YouTube
-  #twitter:        twitter
-  #instagram:      instagram
-  #facebook:       facebook
-  #linkedin:       company/linkedin
-  #stackoverflow:  1
-  #twitch:         twitch
+  github: J3-Tech/business-card-jekyll
+  youtube: user/YouTube
+  twitter: twitter
+  instagram: instagram
+  facebook: facebook
+  linkedin: linkedin
+  stackoverflow: 1
+  twitch: twitch
 
 # Others
 markdown: kramdown
