@@ -1,11 +1,11 @@
 # General settings
-title:        Business Card theme
+title: Business Card theme
 
 background:
-  color:    rgb(43,42,51)
+  color: rgb(43,42,51)
 
 foreground:
-  color:    whitesmoke
+  color: whitesmoke
 
 # Card info
 card:
