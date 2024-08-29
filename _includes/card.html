@@ -2,8 +2,8 @@
 <div class="card">
     <div class="card-body d-flex flex-column ">
         <h1 class="text-secondary">
-            {% if site.card != nil and site.card.name != nil %}
-                {{ site.card.name }}
+            {% if site.author %}
+                {{ site.author }}
             {% else %}
                 John Doe
             {% endif %}

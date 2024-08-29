@@ -1,5 +1,9 @@
 # General settings
 title: Business Card theme
+tagline: Next Generation Programmer
+author: John Doe
+description: Business Card
+locale: en
 
 background:
   color: rgb(43,42,51)
@@ -25,3 +29,6 @@ profiles:
 
 # Others
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
